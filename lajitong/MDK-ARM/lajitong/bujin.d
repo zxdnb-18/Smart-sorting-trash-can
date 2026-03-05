@@ -1,0 +1,33 @@
+.\lajitong\bujin.o: bujin.c
+.\lajitong\bujin.o: bujin.h
+.\lajitong\bujin.o: ../Core/Inc/gpio.h
+.\lajitong\bujin.o: ../Core/Inc/main.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+.\lajitong\bujin.o: ../Core/Inc/stm32f1xx_hal_conf.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Include/core_cm3.h
+.\lajitong\bujin.o: D:\Keil5 MDK\Install\ARM\ARMCC\Bin\..\include\stdint.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\lajitong\bujin.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+.\lajitong\bujin.o: D:\Keil5 MDK\Install\ARM\ARMCC\Bin\..\include\stddef.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+.\lajitong\bujin.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+.\lajitong\bujin.o: ../Core/Inc/stm32f1xx_it.h
