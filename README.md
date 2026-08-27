@@ -1,2 +1,1 @@
-# Smart-sorting-trash-can-（2025工创赛）
-
+2025工创赛国一-垃圾分类赛项
